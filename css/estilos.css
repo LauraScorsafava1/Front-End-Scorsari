@@ -5,3 +5,9 @@ body {
 .wrapper {
    min-height: 100vh;
 }
+
+@media screen and (max-width: 469px) {
+   .mt-xs-3 {
+      margin-top: 1rem;
+   }
+}
